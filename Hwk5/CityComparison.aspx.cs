@@ -22,8 +22,8 @@ namespace Hwk5
 {
     public partial class CityComparison : System.Web.UI.Page
     {
-        string AirKey = "c19586bdfc60d82efbe0695fdbbe391918eb15a9"; //Air Quality Index API key
-        string ZipKey = "CpUwTRwItjAPr4Q0YDPXvoLiBIMFvpgwJ94rSzmeFwEccZaaKTtTrpR3yCXd0uqV"; //Zip code API key
+        string AirKey = " "; //Air Quality Index API key
+        string ZipKey = " "; //Zip code API key
 
         public string HomeValue1, HomeValue2;
         public string CrimeRate1, CrimeRate2;
